@@ -1,6 +1,7 @@
 # invoice-generator
  Website to create invoice
 
-# Demo: [invoice.pdf](https://github.com/raushankumarg6/invoice-generator/files/10147462/invoice.pdf)
+# Demo: 
+https://user-images.githubusercontent.com/66469791/208126073-8c9063ff-6e07-45b8-bc11-c770c97850ed.mp4
 
-![invoice0](https://user-images.githubusercontent.com/66469791/205464007-76bda582-fa6b-4564-8e3c-d8784b2b9674.jpg)
+[invoice 1.pdf](https://github.com/raushankumarg6/invoice-generator/files/10246777/invoice.1.pdf)
